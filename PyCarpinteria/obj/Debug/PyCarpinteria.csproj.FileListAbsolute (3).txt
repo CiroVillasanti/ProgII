@@ -1,0 +1,11 @@
+C:\Users\cirov\source\repos\PII_Clase1\bin\Debug\PII_Clase1.exe.config
+C:\Users\cirov\source\repos\PII_Clase1\bin\Debug\PII_Clase1.exe
+C:\Users\cirov\source\repos\PII_Clase1\bin\Debug\PII_Clase1.pdb
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.csprojAssemblyReference.cache
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.Frm_Alta_Presupuesto.resources
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.Principal.resources
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.Properties.Resources.resources
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.csproj.GenerateResource.cache
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.csproj.CoreCompileInputs.cache
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.exe
+C:\Users\cirov\source\repos\PII_Clase1\obj\Debug\PII_Clase1.pdb
